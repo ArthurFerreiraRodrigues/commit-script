@@ -1,4 +1,5 @@
-$PATH_REPO="D:/Software/AutoCommit/commit-script"
+#!/bin/bash 
+PATH_REPO = "D:/Software/AutoCommit/commit-script"
 
 git add . && \
 git add -u && \
