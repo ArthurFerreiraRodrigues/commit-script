@@ -5,7 +5,7 @@ PATH_REPO="D:/Software/AutoCommit/commit-script"
 cd $PATH_REPO
 pwd
 
-# Fetching and Pulling just to make sure there isn t something new in repo
+# Fetching and Pulling repo just to make sure there isn t something new in repo
 git fetch
 git pull
 
